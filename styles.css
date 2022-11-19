@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+#odin-recipes{
+    background-color: rgb(70, 84, 90);
+    color: rgb(170, 194, 192);
+}
+#mac-and-cheese{
+    background-color: rgb(218, 146, 39);
+    color: rgb(255, 253, 225);
+}
+#pumpkin-pie{
+    background-color: burlywood;
+    color: rgb(121, 52, 121);
+}
+#cornbread-dressing {
+    background-color: rgb(255, 234, 167);
+    color: rgb(78, 38, 0);
+}
+
+
+.desc {
+    text-align: center;
+    color: darkslategray;
+}
+.ingre{
+    color: rgb(177, 94, 94);
+}
+.ingre-sub{
+    color: rgb(141, 103, 6);
+}
+.steps{
+    color: indigo;
+}
+.home-image {
+    height: 500px;
+    width: auto;
+}
